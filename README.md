@@ -1,8 +1,7 @@
 
 # LessBean Theme created by NMT99
 
-
-<img src="/sreenshot.png">
+![Screenshot](screenshot.png)
 
 
 **Enjoy!**
