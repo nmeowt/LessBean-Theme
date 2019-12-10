@@ -1,6 +1,6 @@
 
 # README
-## This is the README for your extension "LessBean-theme"
+## LessBean-theme
 
 ![Screenshot](screenshot.png)
 
