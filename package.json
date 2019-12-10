@@ -1,0 +1,22 @@
+{
+    "name": "lessbean-theme",
+    "displayName": "LessBean Theme",
+    "description": "NMT99's theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LessBean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lessbean-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "NMT99"
+}
