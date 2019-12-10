@@ -1,6 +1,5 @@
 
-# README
-## LessBean-theme
+# LessBean Theme created by NMT99
 
 ![Screenshot](screenshot.png)
 
